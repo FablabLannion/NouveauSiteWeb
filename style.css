@@ -250,7 +250,7 @@ button, .btn {
 
 .présentation {
   min-height:100vh; position:relative; overflow:hidden;
-  background: linear-gradient(var(--hero-gradient)), url("image/background.jpg");
+  background: linear-gradient(var(--hero-gradient)), url("image/background.png");
   background-size:cover; background-position:center; background-repeat:no-repeat;
   display:flex; align-items:center; justify-content:center; text-align:center;
 }

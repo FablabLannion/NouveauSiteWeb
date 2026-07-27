@@ -810,6 +810,7 @@ button:focus-visible, a:focus-visible { outline:2px solid var(--focus-color); ou
 }
 .planning-col-site {
   flex: 1;
+  min-width: 0;   /* ← ajout */ 
   background: var(--bg-alt);
   display: flex;
   flex-direction: column;
@@ -853,6 +854,7 @@ button:focus-visible, a:focus-visible { outline:2px solid var(--focus-color); ou
 /* Carte événement (mois) */
 .planning-ev-card {
   width: 100%;
+  min-width: 0;   /* ← ajout */ 
   display: flex;
   align-items: center;
   gap: 14px;

@@ -25,7 +25,7 @@ class NavBar extends HTMLElement {
             <a href="actualités.html">Actualités</a>
             <a href="Tarifs.html">Tarifs</a>
             <a href="Bénévoles.html">Bénévoles</a>
-            <a href="https://bookstack.ouedraoknopp.bzh/" target="_blank" rel="noopener noreferrer">Wiki</a>
+            <a href="https://wiki.fablab-lannion.org/" target="_blank" rel="noopener noreferrer">Wiki</a>
             <div class="nav-theme-row" id="mobile-theme-row">
               <span class="nav-theme-label" id="mobile-theme-label">Mode sombre</span>
               <button id="mobile-theme-toggle" class="pill-switch" aria-label="Changer de thème">

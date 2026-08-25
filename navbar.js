@@ -24,6 +24,7 @@ class NavBar extends HTMLElement {
             <a href="Project.html">Projets</a>
             <a href="actualités.html">Actualités</a>
             <a href="Tarifs.html">Tarifs</a>
+            <a href="Partenaires.html">Partenaires</a>
             <a href="https://framateam.org/fablab-lannion/channels/town-square" target="_blank" rel="noopener noreferrer">discutons !</a>
             <a href="https://wiki.fablab-lannion.org/" target="_blank" rel="noopener noreferrer">Wiki</a>
             <div class="nav-theme-row" id="mobile-theme-row">
